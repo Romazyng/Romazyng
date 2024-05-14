@@ -68,5 +68,3 @@
 
 ###
 
-<br clear="both">
-
