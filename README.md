@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romazyng" alt="romazyng" /></a> </p>
 
-- 🔭 I’m currently working on **my own Discord-app**
+- 🔭 I’m currently working on **Orchid platform**
 
 - 🌱 I’m currently learning **Next.js**
 
