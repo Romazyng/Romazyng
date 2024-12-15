@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roman</h1>
 <h3 align="center">I do frontend and some work my Uni gives me</h3>
-<img alt="" class="hCL kVc L4E MIw" fetchpriority="auto" loading="auto" src="[https://i.pinimg.com/564x/10/8a/75/108a7563ef7b8bedd52e80931b75e477.jpg](https://i.pinimg.com/736x/b5/28/ea/b528eace81aba7fbcd7ecdc27bb1265d.jpg)">
+<img alt="" class="hCL kVc L4E MIw" fetchpriority="auto" loading="auto" src="https://i.pinimg.com/736x/b5/28/ea/b528eace81aba7fbcd7ecdc27bb1265d.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romazyng&label=Profile%20views&color=0e75b6&style=flat" alt="romazyng" /> </p>
 
